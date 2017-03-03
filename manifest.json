@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "New Tab Bookmarks",
-  "description": "An extension that allows you to open a bookmark in a new tab",
+  "description": "An extension that allows you to open a bookmark in a new tab by default",
   "version": "1.0",
 
   "browser_action": {
